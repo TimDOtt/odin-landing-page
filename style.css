@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
+    color: white;
+}
+
+button,
+.banner {
+    background-color:#3882F6;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+/*                      Header                          */
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header > ul {
+    display: flex;
+    flex-grow: 1;
+    gap: 30px;
+    margin-right: 100px;
+}
+.header > h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+.header > p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: auto;
+}
