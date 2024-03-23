@@ -42,14 +42,24 @@ ul {
     flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 10px;
+    width: 65%;
 }
 
+.links {
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-start;
+    gap: 10px;
+
+}
 .logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 900;
-    margin-right: auto;
+    flex-grow: 35;
 }
 
 .header > h1 {
