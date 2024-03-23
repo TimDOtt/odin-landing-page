@@ -1,5 +1,11 @@
 # odin-landing-page
-Odin landing page project. This project will showcase my furthered knowledge of HTML and CSS. 
+Odin landing page project. This project will showcase my furthered knowledge of HTML and CSS. I do not know how to make it responsive as of yet. Once the screen shrinks enough it will break. Plans to fix that once I learn CSS better
+
+#Technologies in use
+---
+* HTML
+* CSS
+* Flexbox
 
 
 Image credits:
